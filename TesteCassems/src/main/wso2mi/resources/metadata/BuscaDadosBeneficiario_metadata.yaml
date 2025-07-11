@@ -1,0 +1,10 @@
+---
+key: "BuscaDadosBeneficiario-1.0.0"
+name : "BuscaDadosBeneficiario"
+displayName : "BuscaDadosBeneficiario"
+description: "BuscaDadosBeneficiario"
+version: "1.0.0"
+serviceUrl: "https://{MI_HOST}:{MI_PORT}/buscadadosbeneficiario"
+definitionType: "OAS3"
+securityType: "BASIC"
+mutualSSLEnabled: false
